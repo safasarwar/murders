@@ -1,0 +1,7 @@
+we analyse US guns data collected by FBI
+
+download-data.R - downloads the dataset to data directory
+
+wrangle-data.R - creates a derived dataset and saves as R object in rda directory
+
+analysis.R - creates a barplot and saves it to figs directory
